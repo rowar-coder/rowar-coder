@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 30 14:09:08 2020
 
-@author: rom_w
+@author:  khalilchouchen adapté par romaric
 """
 
 from EnodeB import *
